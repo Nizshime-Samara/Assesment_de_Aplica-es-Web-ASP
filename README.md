@@ -1,2 +1,4 @@
-# Assesment_de_Aplicações-Web-ASP
-AT
+# Assesment aplicações web ASP.Net
+C#
+DDD
+MVC
